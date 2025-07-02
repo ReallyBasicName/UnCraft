@@ -1,0 +1,466 @@
+[
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	
+	//Majors
+	
+    {
+        "name": "Illager Empire",
+		"style": "Illager",
+        "leaderName": "Arch-Illager",
+        "adjective": ["Illager"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+		
+        "neutralHello": "",
+        "hateHello": "",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [98, 98, 98],
+		"innerColor": [249, 156, 255],
+		
+        "uniqueName": "",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "Highblock Halls"
+			]
+		"spyNames": [
+			"",
+			"", 
+			"", 
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+    }, 
+    {
+        "name": "Republic of Steve",
+		"style": "Player",
+        "leaderName": "Steve",
+        "adjective": ["Steve's"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "Ok.",
+        "defeated": "",
+        "introduction": "I... am Steve.",
+		
+        "neutralHello": "Welcome.",
+        "hateHello": "..",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [0, 175, 175],
+		"innerColor": [70, 58, 165],
+		
+        "uniqueName": "",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "Steve's Base"
+			]
+		"spyNames": [
+			"Advent Calendar Steve",
+			"Archeologist Steve",
+			"Athlete Steve",
+			"Birthday Party Steve",
+			"Blue's Steve",
+			"Boxer Steve",
+			"Cinematic Steve",
+			"Creeper Steve",
+			"Cyclist Steve",
+			"Parka Steve",
+			"Party Steve",
+			"Plastic Steve",
+			"Prisoner Steve",
+			"Santa Steve",
+			"Scottish Steve",
+			"Super Duper Steve",
+			"Stevano",
+			"Steve Black",
+			"Tennis Steve",
+			"T-Shirt Steve",
+			"Tuxedo Steve", 
+			"Winter Steve",
+			"YouTuber Steve"
+		]
+    }, 
+    {
+        "name": "United Villages",
+		"style": "",
+        "leaderName": "The Mayor",
+        "adjective": ["Village"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+		
+        "neutralHello": "",
+        "hateHello": "",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [89, 69, 41],
+		"innerColor": [183, 150, 101],
+		
+        "uniqueName": "Together We Stand",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "Pumpkin Pastures"
+			]
+		"spyNames": [
+			"Nurm",
+			"", 
+			"", 
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+    }, 
+    {
+        "name": "Nameless Kingdom",
+		"style": "Nameless",
+        "leaderName": "The Nameless One",
+        "adjective": ["Nameless"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "Welcome, stranger, I am known as the Nameless One. I have waited for your rise, as was long foretold, I have been patient for countless lifetimes, but it has paid off. You are finally here.",
+		
+        "neutralHello": "",
+        "hateHello": "",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [36, 29, 52],
+		"innerColor": [202, 255, 56],
+		
+        "uniqueName": "The Forgotten Kingdom",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "Desert Temple"
+			]
+		"spyNames": [
+			"",
+			"", 
+			"", 
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+    }, 
+    {
+        "name": "Withered Domain",
+		"style": "Wither",
+        "leaderName": "The Wither",
+        "adjective": ["Wither"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+		
+        "neutralHello": "",
+        "hateHello": "",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [52, 41, 34],
+		"innerColor": [187, 101, 101],
+		
+        "uniqueName": "",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "Tower of Lost Souls"
+			]
+		"spyNames": [
+			"",
+			"", 
+			"", 
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+    }, 
+    {
+        "name": "The End",
+		"style": "Ender",
+        "leaderName": "Ender Dragon",
+        "adjective": ["Ender"],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+		
+        "neutralHello": "",
+        "hateHello": "",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [24, 24, 24],
+		"innerColor": [133, 72, 181],
+		
+        "uniqueName": "",
+        "uniques": [
+			
+		],
+        "cities": [
+			 "The Island"
+			]
+		"spyNames": [
+			"Bart",
+			"Overseer", 
+			"Watcher", 
+			"Zealot",
+			"Seer",
+			"Observer",
+			"Sentinel",
+			"Beholder",
+			"Minder",
+			"Flayer",
+			"Mimic",
+			"Clairvoyant",
+			"Void Worm"
+		]
+    }, 
+    {
+        "name": "The Imperium",
+		"style": "Imperium",
+        "leaderName": "Him",
+        "adjective": [""],
+        //"startBias": [""],
+        //"preferredVictoryType": "Domination",
+		
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+		
+        "declaringWar": "There is no one to save you.",
+        "attacked": "Only god can help you now!",
+        "defeated": "",
+        "introduction": "I was born to wreak fear on the Overworld. And I will",
+		
+        "neutralHello": "",
+        "hateHello": "You are so foolish.",
+		"denounced": "",
+		
+        "tradeRequest": "",
+		"declaringFriendship": "",
+		
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		
+		//Always Watching
+        "uniqueName": "The Noises",
+        "uniques": [
+			
+		],
+        "cities": [
+			 ""
+			]
+		"spyNames": [
+			"None",
+			"Null", 
+			"Entity", 
+			"Point",
+			"Alone",
+			"The Eyes",
+			"Binary",
+			"Void",
+			"Illusion",
+			"Player",
+			"Exception",
+			"Unknown",
+			"Empty"
+		]
+    }, 
+	
+	//Villages
+	
+	{
+		"name": "Squid Coast",
+		"adjective": ["Squid Coastman"],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Squid Coast"]
+        "uniques": [
+        ],
+	},
+	{
+		"name": "Boom Town",
+		"adjective": ["Boom Towner"],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Boom Town"]
+        "uniques": [
+        ],
+	},
+	{
+		"name": "Beacontown",
+		"adjective": ["Beacontown"],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Beacontown"]
+        "uniques": [
+        ],
+	},
+	{
+		"name": "Sky City",
+		"adjective": ["Sky"],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Sky City"]
+        "uniques": [
+        ],
+	},
+	{
+		"name": "Champion City",
+		"adjective": ["Champion"],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": ["Champion City"]
+        "uniques": [
+        ],
+	},
+	/*
+	{
+		"name": "",
+		"adjective": [""],
+		"cityStateType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"outerColor": [0, 0, 0],
+		"innerColor": [],
+		"cities": [""]
+        "uniques": [
+        ],
+	},
+	*/
+	
+	//Barbarian
+	
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	}
+
+]

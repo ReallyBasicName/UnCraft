@@ -1,0 +1,230 @@
+
+game.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+EmojiIcons/Culture
+  rotate: false
+  xy: 1192, 76
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Faith
+  rotate: false
+  xy: 1220, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 1192, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 1220, 76
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Malcontent
+  rotate: false
+  xy: 1248, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Population
+  rotate: false
+  xy: 1220, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 1248, 76
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 1276, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NationIcons/Illager Civ
+  rotate: false
+  xy: 1248, 49
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+NationIcons/Illager Empire
+  rotate: false
+  xy: 1355, 110
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+NationIcons/Nameless Kingdom
+  rotate: false
+  xy: 1216, 26
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+NationIcons/Republic of Steve
+  rotate: false
+  xy: 1192, 24
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+NationIcons/Spectator
+  rotate: false
+  xy: 1276, 78
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+NationIcons/The End
+  rotate: false
+  xy: 1330, 107
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+NationIcons/The Imperium
+  rotate: false
+  xy: 1216, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+NationIcons/United Villages
+  rotate: false
+  xy: 1304, 106
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+NationIcons/Withered Domain
+  rotate: false
+  xy: 4, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+NationIcons/Withered Domain1
+  rotate: false
+  xy: 24, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+StatIcons/Culture
+  rotate: false
+  xy: 4, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Faith
+  rotate: false
+  xy: 112, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 220, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 328, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 436, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Malcontent
+  rotate: false
+  xy: 544, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Population
+  rotate: false
+  xy: 652, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 760, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Science
+  rotate: false
+  xy: 868, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Specialist
+  rotate: false
+  xy: 976, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Strength
+  rotate: false
+  xy: 1084, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileIcons/Buy
+  rotate: false
+  xy: 1192, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 1192, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+OtherIcons/ConvertGold
+  rotate: false
+  xy: 1192, 104
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
